@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(6.0.2)"
     },
-    "CreationDate": "2022-09-19T13:12:04+01:00"
+    "CreationDate": "2022-09-20T10:33:02+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "comparator",
-      "GUID": "636f6d70-6172-4617-946f-722e6b696361",
+      "Name": "kompari",
+      "GUID": "6b6f6d70-6172-4692-9e6b-696361645f70",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "comparator-F_Cu.gbr",
+      "Path": "kompari-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "comparator-B_Cu.gbr",
+      "Path": "kompari-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "comparator-F_Paste.gbr",
+      "Path": "kompari-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "comparator-B_Paste.gbr",
+      "Path": "kompari-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "comparator-F_Silkscreen.gbr",
+      "Path": "kompari-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "comparator-B_Silkscreen.gbr",
+      "Path": "kompari-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "comparator-F_Mask.gbr",
+      "Path": "kompari-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "comparator-B_Mask.gbr",
+      "Path": "kompari-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "comparator-Edge_Cuts.gbr",
+      "Path": "kompari-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
