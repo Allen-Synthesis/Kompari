@@ -1,7 +1,7 @@
 # Kompari
 ### A comparator module for Eurorack
   
-  
+***
 ### Features:
 - 2 ±12V inputs, each with attenuverter
 - Unipolar/Bipolar output switch
@@ -15,11 +15,11 @@ The output will be high (+10V) if input A is greater than input B.
 The output will be low (-10V if set to bipolar, 0V if set to unipolar) if input B is greater than input A.  
 
 Both inputs have an attenuverter, and are both normalled to +12V, so with only one input, the value of input B can be controlled simply using the attenuverter as a ±10V voltage source.  
-
+***
 ### Easy to DIY
 The module has fairly few components, and is entirely through hole. It is also 'free hardware' so you can access all the design files in this repo, and check out the [Bill of Materials here!](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Allen-Synthesis/Kompari/main/bom/ibom.html)
 
-
+***
 ### Patch Examples
 
 #### PWM
