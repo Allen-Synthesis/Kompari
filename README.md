@@ -3,7 +3,7 @@
   
   
 ### Features:
-- 2 ±10V inputs, each with attenuverter
+- 2 ±12V inputs, each with attenuverter
 - Unipolar/Bipolar output switch
 - 1 ±10V output, with attenuverter
   
