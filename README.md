@@ -17,7 +17,7 @@ The output will be low (-10V if set to bipolar, 0V if set to unipolar) if input 
 Both inputs have an attenuverter, and are both normalled to +12V, so with only one input, the value of input B can be controlled simply using the attenuverter as a ±10V voltage source.  
 ***
 ### Easy to DIY
-The module has fairly few components, and is entirely through hole. It is also 'free hardware' so you can access all the design files in this repo, and check out the [Bill of Materials here!](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Allen-Synthesis/Kompari/main/kicad/bom/ibom.html)
+The module has fairly few components, and is entirely through hole. It is also 'free hardware' so you can access all the design files in this repo, and check out the [Interactive Bill of Materials here!](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Allen-Synthesis/Kompari/main/kicad/bom/ibom.html)
 
 ***
 ### Patch Examples
@@ -29,4 +29,4 @@ For example, feeding a triangle wave input to input A will result in a square wa
 #### Compressor
 Another more complex case would be to run an audio source through an envelope follower, then into input A. Use input B to set a maximum voltage (volume), and when the volume of the audio (envelope follower voltage) goes above this voltage, the Kompari output should trigger an envelope generator which has a negative effect on the volume of a VCA on the original audio. You now have a slightly roundabout, but fully fledged compressor! The envelope generator's attack and decay controls are the response of the compressor, the VCA's unaltered input voltage (before subtracting the envelope) is the makeup gain, and the Kompari's input B is the threshold.  
   
-As you can see, it's easy to get carried away with using a comparator module such as the Kompari, and the patches you make are only limited by your imagination!
+As you can see, it's easy to get carried away with using a comparator module such as the Kompari, and the patches you can make are only limited by your imagination!
