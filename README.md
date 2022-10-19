@@ -17,7 +17,7 @@ The output will be low (-10V if set to bipolar, 0V if set to unipolar) if input 
 Both inputs have an attenuverter, and are both normalled to +12V, so with only one input, the value of input B can be controlled simply using the attenuverter as a ±10V voltage source.  
 ***
 ### Easy to DIY
-The module has fairly few components, and is entirely through hole. It is also 'free hardware' so you can access all the design files in this repo, and check out the [Bill of Materials here!](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Allen-Synthesis/Kompari/main/kicad/bom/ibom.html)
+The module has fairly few components, and is entirely through hole. It is also 'free hardware' so you can access all the design files in this repo, and check out the [Interactive Bill of Materials here!](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Allen-Synthesis/Kompari/main/kicad/bom/ibom.html)
 
 ***
 ### Patch Examples
